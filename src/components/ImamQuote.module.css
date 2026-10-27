@@ -1,0 +1,3 @@
+.quote { margin: 18px 0; padding: 20px 22px; background: #f8f5ed; border-right: 4px solid #a98645; border-radius: 12px 0 0 12px; }
+.quote figcaption { color: #735727; font-weight: 800; font-size: .92rem; margin-bottom: 10px; }
+.quote blockquote { margin: 0; font-size: 1.08rem; line-height: 2.15; font-weight: 600; }

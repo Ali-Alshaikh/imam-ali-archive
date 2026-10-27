@@ -1,0 +1,5 @@
+.tableWrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 12px; }
+.table { width: 100%; border-collapse: collapse; line-height: 1.9; background: var(--surface); }
+.table th, .table td { padding: 13px 16px; text-align: right; vertical-align: top; border-bottom: 1px solid var(--border); }
+.table th { background: #f5f0e6; }
+.table tr:last-child td { border-bottom: 0; }

@@ -1,0 +1,5 @@
+.page { min-height: 100vh; }
+.container { width: min(900px, calc(100% - 32px)); margin: 0 auto; padding: 28px 0 64px; }
+.backLink { display: inline-block; color: var(--muted); text-decoration: none; margin-bottom: 20px; }
+.backLink:hover { color: var(--ink); }
+@media (max-width: 600px) { .container { width: min(100% - 20px, 900px); padding-top: 20px; } }
